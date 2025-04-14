@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# portfolio
-=======
-# Portfolio of Manoj Odela
+# Portfolio of Nandeesh Ballanaguddam
 
 Welcome to my portfolio! This project showcases my work, skills, and experiences as a Front End Developer.
 
@@ -18,4 +15,3 @@ Welcome to my portfolio! This project showcases my work, skills, and experiences
   - React
   - Tailwind CSS
   - Framer Motion (for animations)
->>>>>>> ca412809ff21b231eade0546e5105d6e4292b1a6

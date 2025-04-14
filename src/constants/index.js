@@ -3,13 +3,16 @@ import dilipsindia from "../assets/projects/dilipsindia.png"
 import kanha from "../assets/projects/kanha.png"
 import healthportal from "../assets/projects/healthportal.png"
 
-export const HERO_CONTENT = `I am a passionate FrontEnd developer with a talent for crafting responsive and maintainable web applications.With 2+ years of hands-on experience in modern JavaScript frameworks like React, Next, Redux, and a strong background in integrating RESTful APIs, I aim to leverage my skills to create innovative and user-centric solutions that enhance productivity and user engagement.`;
-export const ABOUT_TEXT = `I am a  Junior Software Engineer with a passion for crafting seamless, user-focused web applications that drive both business growth and customer satisfaction. With a solid foundation in React.js, Next.js, and state management tools like ContextAPI and Redux Toolkit, I specialize in building responsive and scalable solutions that deliver exceptional performance across devices.
-Currently at Sparsh Communications, I focus on optimizing front-end performance using cutting-edge techniques like lazy loading, dynamic imports, and prefetching. I take pride in creating dynamic, accessible interfaces using React.js, Nextjs, Tailwind CSS.
+export const HERO_CONTENT = `I’m a passionate Front-End Developer with over 2 years of experience building responsive, scalable, and maintainable web applications. Proficient in modern JavaScript frameworks like React, Next.js, and Redux, I specialize in creating intuitive, user-centric interfaces and seamlessly integrating RESTful APIs to deliver impactful digital experiences that boost productivity and engagement.`;
+export const ABOUT_TEXT = `I’m a Junior Software Engineer with a strong passion for crafting seamless, user-focused web applications that drive business growth and enhance customer satisfaction. With a solid foundation in React.js, Next.js, and state management tools like Context API and Redux Toolkit, I specialize in developing responsive, scalable, and high-performance solutions that work flawlessly across devices.
 
-In addition to professional roles, I have spearheaded innovative projects like a Traveller, Moboom, and an E-Commerce Platform, where I implemented advanced features such as search, filtering, and real-time updates, enhancing user engagement and functionality.
-My technical skill set spans JavaScript (ES6+), HTML5, CSS3, Node.js, Redux and modern frameworks like Tailwind CSS and Bootstrap. I’m also experienced with performance optimization, dynamic workflows, and Agile collaboration.
-What excites me most is the opportunity to combine my technical expertise with creative problem-solving to deliver impactful solutions that meet both user needs and business objectives. When I’m not coding, I’m exploring new technologies, learning about design systems, or diving into a good tech blog.`;
+Currently, at Sparsh Communications, I focus on optimizing front-end performance using advanced techniques such as lazy loading, dynamic imports, and prefetching. I take pride in building accessible, dynamic interfaces using technologies like React.js, Next.js, and Tailwind CSS.
+
+Beyond my professional role, I’ve led innovative projects such as Traveller, Moboom, and a custom E-Commerce Platform, where I implemented advanced features like search, filtering, and real-time updates—boosting both user engagement and functional depth.
+
+My technical toolkit includes JavaScript (ES6+), HTML5, CSS3, Node.js, Redux, and modern frameworks like Tailwind CSS and Bootstrap. I’m also experienced in performance optimization, dynamic workflows, and Agile methodologies.
+
+What truly excites me is the opportunity to blend technical expertise with creative problem-solving to deliver meaningful solutions that align with user needs and business goals. When I’m not coding, you’ll find me exploring new technologies, studying design systems, or diving into a good tech blog.`;
 
 export const EXPERIENCES = [
   {
@@ -31,7 +34,7 @@ code for specific charts via HTTP requests such as GET, POST, UPDATE, and DELETE
 methods.
 •This will be achieved using React libraries like Ant Design and DevExtreme.
     `,
-    technologies: ["HTML", "CSS", "Javascript", "Reactjs", "DevExtreme","Ant Design"],
+    technologies: ["HTML", "CSS", "Javascript", "Reactjs", "DevExtreme", "Ant Design"],
   },
   {
     year: "June 2022 - Aug 2022",
@@ -44,7 +47,7 @@ device performance records.
 •Built the project using Next JS and Antd library, while also evaluating competitor websites for
 content, look, and feel.
 •Effectively translated client requirements into application designs and system requirements `,
-    technologies: ["HTML", "CSS", "Javascript", "Reactjs", "DevExtreme","Ant Design"],
+    technologies: ["HTML", "CSS", "Javascript", "Reactjs", "DevExtreme", "Ant Design"],
   },
 ];
 
