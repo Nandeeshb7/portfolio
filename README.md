@@ -1,6 +1,6 @@
 # Portfolio of Nandeesh Ballanaguddam
 
-Welcome to my portfolio! This project showcases my work, skills, and experiences as a Front End Developer.
+Welcome to my portfolio — a curated showcase of my work, technical skills, and hands-on experience as a Front-End Developer dedicated to building dynamic and user-centric web applications.
 
 ## Features
 
