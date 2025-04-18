@@ -1,6 +1,7 @@
 import React from 'react'
 import logo from '../assets/Mylogo.png';
-import { FaLinkedin, FaGithub,  FaInstagram } from 'react-icons/fa';
+import { FaLinkedin, FaGithub, } from 'react-icons/fa';
+import { SiVercel } from 'react-icons/si';
 function Navbar() {
   return (
     <nav className='mb-20 flex items-center justify-between py-6'>
@@ -13,6 +14,9 @@ function Navbar() {
         </a>
         <a href="https://github.com/nandeeshb7" target="_blank" rel="noopener noreferrer">
           <FaGithub className='w-6 h-6 md:w-8 md:h-8' />
+        </a>
+
+        <a href="https://vercel.com/nandeeshb7s-projects" target='_blank' rel="noopener noreferrer"> <SiVercel className='w-6 h-6 md:w-8 md:h-8' />
         </a>
       </div>
     </nav>
